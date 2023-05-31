@@ -28,7 +28,7 @@ To get started with the project, follow these steps:
 
 1. Clone this repository to your local machine:
    ```
-   git clone https://github.com/your-username/telecom-churn-prediction.git
+   git clone https://github.com/usmanbvp/telecom-churn-prediction.git
    ```
 
 2. Set up the Python environment and install the required dependencies by running the provided setup script:

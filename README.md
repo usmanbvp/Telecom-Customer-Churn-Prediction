@@ -15,7 +15,7 @@ The dataset used for this project consists of historical customer information, i
 
 The project is organized into the following directories and files:
 
-- `data/`: Contains the dataset files (`train.csv` and `test.csv`).
+- `data/`: Contains the dataset files (['train.csv'](train.csv) and `test.csv`).
 - `notebooks/`: Includes Jupyter notebooks for data exploration, model development, and evaluation.
 - `models/`: Stores trained models and model evaluation results.
 - `src/`: Contains the source code and utility scripts for data preprocessing, feature engineering, and model training.
@@ -28,12 +28,12 @@ To get started with the project, follow these steps:
 
 1. Clone this repository to your local machine:
    ```
-   git clone https://github.com/usmanbvp/telecom-churn-prediction.git
+   git clone https://github.com/usmanbvp/Telecom-Customer-Churn-Prediction.git
    ```
 
 2. Set up the Python environment and install the required dependencies by running the provided setup script:
    ```
-   cd telecom-churn-prediction
+   cd Telecom-Customer-Churn-Prediction
    ./setup.sh
    ```
 

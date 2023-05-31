@@ -9,13 +9,13 @@ Customer churn is a critical challenge faced by telecom companies. Identifying c
 
 ## Dataset
 
-The dataset used for this project consists of historical customer information, including demographics, service usage, and churn status. The dataset is located in the `data` directory, and it is divided into two parts: `train.csv` for training the model and `test.csv` for evaluating the model's performance. Make sure to explore and understand the data before proceeding with the model development.
+The dataset used for this project consists of historical customer information, including demographics, service usage, and churn status. The dataset is located in the [data](data) directory, and it is divided into two parts: [train.csv](train.csv) for training the model and [test.csv](test.csv) for evaluating the model's performance. Make sure to explore and understand the data before proceeding with the model development.
 
 ## Project Structure
 
 The project is organized into the following directories and files:
 
-- `data/`: Contains the dataset files (['train.csv'](train.csv) and `test.csv`).
+- [`data`](data): Contains the dataset files ([`train.csv`](train.csv) and [`test.csv`](test.csv)).
 - `notebooks/`: Includes Jupyter notebooks for data exploration, model development, and evaluation.
 - `models/`: Stores trained models and model evaluation results.
 - `src/`: Contains the source code and utility scripts for data preprocessing, feature engineering, and model training.
@@ -37,7 +37,7 @@ To get started with the project, follow these steps:
    ./setup.sh
    ```
 
-3. Explore the dataset in the `data/` directory and familiarize yourself with the data structure and features.
+3. Explore the dataset in the [`data/`](data) directory and familiarize yourself with the data structure and features.
 
 4. Use the Jupyter notebooks in the `notebooks/` directory to perform data exploration, develop the machine learning model, and evaluate its performance.
 

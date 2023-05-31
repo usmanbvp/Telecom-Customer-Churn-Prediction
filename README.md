@@ -16,7 +16,7 @@ The dataset used for this project consists of historical customer information, i
 The project is organized into the following directories and files:
 
 - [`data`](data): Contains the dataset files ([`train.csv`](train.csv) and [`test.csv`](test.csv)).
-- `notebooks/`: Includes Jupyter notebooks for data exploration, model development, and evaluation.
+- `notebooks`: Includes Jupyter notebooks for data exploration, model development, and evaluation.
 - `models/`: Stores trained models and model evaluation results.
 - `src/`: Contains the source code and utility scripts for data preprocessing, feature engineering, and model training.
 - `app/`: Includes files necessary for deploying the churn prediction model as a web application.

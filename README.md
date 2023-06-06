@@ -63,13 +63,7 @@ In addition to the project materials provided in this repository, you may find t
 - Websites:
   - [Kaggle: Telecom Customer Churn Prediction](https://www.kaggle.com/c/customer-churn-prediction)
 
-## Contributors
 
-This project is maintained and developed by a team of contributors passionate about machine learning and data science.
-
- We appreciate their valuable contributions to the project's codebase and resources.
-
-- Venkat Ramana Reddy
 ## License
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code and resources according to the terms of the license.

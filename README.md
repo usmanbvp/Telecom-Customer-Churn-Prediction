@@ -39,7 +39,7 @@ To get started with the project, follow these steps:
 
 3. Explore the dataset in the [`data/`](data) directory and familiarize yourself with the data structure and features.
 
-4. Use the Jupyter notebooks in the `notebooks/` directory to perform data exploration, develop the machine learning model, and evaluate its performance.
+4. Use the Jupyter notebooks in the [`notebooks/`](Telecom-Customer-Churn-Prediction.ipynb) directory to perform data exploration, develop the machine learning model, and evaluate its performance.
 
 5. Modify the source code in the `src/` directory to customize data preprocessing, feature engineering, and model training according to your needs.
 

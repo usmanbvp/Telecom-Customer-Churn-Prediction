@@ -40,11 +40,9 @@ To get started with the project, follow these steps:
 
 4. Use the Jupyter notebooks in the [`notebooks/`](Telecom-Customer-Churn-Prediction.ipynb) directory to perform data exploration, develop the machine learning model, and evaluate its performance.
 
-5. Modify the source code in the `src/` directory to customize data preprocessing, feature engineering, and model training according to your needs.
+5. Once you have trained and evaluated the model, you can save it in the `models/` directory for future use.
 
-6. Once you have trained and evaluated the model, you can save it in the `models/` directory for future use.
-
-7. Optionally, deploy the churn prediction model as a web application by following the instructions in the `app/` directory.
+6. Optionally, deploy the churn prediction model as a web application by following the instructions in the `app/` directory.
 
 ## Additional Resources
 

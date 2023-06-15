@@ -17,7 +17,7 @@ The project is organized into the following directories and files:
 
 - [`data`](data): Contains the dataset files ([`train.csv`](train.csv) and [`test.csv`](test.csv)).
 - [`notebooks`](Telecom-Customer-Churn-Prediction.ipynb): Includes Jupyter notebooks for data exploration, model development, and evaluation.
-- `models/`: Stores trained models and model evaluation results.
+- [`models`[(models): Stores trained models and model evaluation results.
 - `app/`: Includes files necessary for deploying the churn prediction model as a web application.
 - [`README.md`](README.md): The readme file providing an overview of the project.
 
@@ -40,7 +40,7 @@ To get started with the project, follow these steps:
 
 4. Use the Jupyter notebooks in the [`notebooks/`](Telecom-Customer-Churn-Prediction.ipynb) directory to perform data exploration, develop the machine learning model, and evaluate its performance.
 
-5. Once you have trained and evaluated the model, you can save it in the `models/` directory for future use.
+5. Once you have trained and evaluated the model, you can save it in the [`models/`](models) directory for future use.
 
 6. Optionally, deploy the churn prediction model as a web application by following the instructions in the `app/` directory.
 

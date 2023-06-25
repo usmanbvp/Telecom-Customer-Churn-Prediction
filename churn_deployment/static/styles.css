@@ -1,0 +1,10 @@
+body {
+  font-weight: bold; /* Set the font weight to bold for all text within the body */
+  background-image: url("{{ url_for('static', filename='background_image.jpeg') }}");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1 { 
+color: blue; /* Change the font color to red */
+text-align: center; /* Align the text to the center */
+}

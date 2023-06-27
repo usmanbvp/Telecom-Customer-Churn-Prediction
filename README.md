@@ -9,7 +9,7 @@ Customer churn is a critical challenge faced by telecom companies. Identifying c
 
 ## Dataset
 
-The dataset used for this project consists of historical customer information, including demographics, service usage, and churn status. The dataset is located in the [data](data) directory, and it is divided into two parts: [train.csv](train.csv) for training the model and [test.csv](test.csv) for evaluating the model's performance. Make sure to explore and understand the data before proceeding with the model development.
+The dataset used for this project consists of historical customer information, service usage, and churn status. The dataset is located in the [data](data) directory, and it is divided into two parts: [train.csv](train.csv) for training the model and [test.csv](test.csv) for evaluating the model's performance. Make sure to explore and understand the data before proceeding with the model development.
 
 ## Project Structure
 
@@ -17,8 +17,9 @@ The project is organized into the following directories and files:
 
 - [`data`](data): Contains the dataset files ([`train.csv`](train.csv) and [`test.csv`](test.csv)).
 - [`notebooks`](Telecom-Customer-Churn-Prediction.ipynb): Includes Jupyter notebooks for data exploration, model development, and evaluation.
+- [`churnanalysis'](churnanalysis.pdf):This pdf providing easily interpretable data visualizations, for a clear understanding of the dataset at hand.
 - [`models`](models): Stores trained models and model evaluation results.
-- `app/`: Includes files necessary for deploying the churn prediction model as a web application.
+- [`Deployment`](churn_deployment): Includes files necessary for deploying the churn prediction model as a web application.
 - [`README.md`](README.md): The readme file providing an overview of the project.
 
 ## Getting Started
@@ -42,7 +43,7 @@ To get started with the project, follow these steps:
 
 5. Once you have trained and evaluated the model, you can save it in the [`models/`](models) directory for future use.
 
-6. Optionally, deploy the churn prediction model as a web application by following the instructions in the `app/` directory.
+6. Optionally, deploy the churn prediction model as a web application by following the instructions in the [`Deployment`](churn_deployment) directory.
 
 ## Additional Resources
 

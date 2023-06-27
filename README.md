@@ -17,7 +17,7 @@ The project is organized into the following directories and files:
 
 - [`data`](data): Contains the dataset files ([`train.csv`](train.csv) and [`test.csv`](test.csv)).
 - [`notebooks`](Telecom-Customer-Churn-Prediction.ipynb): Includes Jupyter notebooks for data exploration, model development, and evaluation.
-- [`churnanalysis'](churnanalysis.pdf):This pdf providing easily interpretable data visualizations, for a clear understanding of the dataset at hand.
+- [`churnanalysis'](churnanalysis.pbix):This pdf providing easily interpretable data visualizations, for a clear understanding of the dataset at hand.
 - [`models`](models): Stores trained models and model evaluation results.
 - [`Deployment`](churn_deployment): Includes files necessary for deploying the churn prediction model as a web application.
 - [`README.md`](README.md): The readme file providing an overview of the project.

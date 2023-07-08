@@ -70,4 +70,4 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 If you have any feedback, suggestions, or questions regarding the project, please create an issue in the repository or contact me at usman.bvp@gmail.com. We are here to assist you and make your churn prediction journey a success.
 
-Happy predicting!
+Happy predicting!!

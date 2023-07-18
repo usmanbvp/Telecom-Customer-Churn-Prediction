@@ -68,6 +68,5 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 ## Feedback and Support
 
-If you have any feedback, suggestions, or questions regarding the project, please create an issue in the repository or contact me at usman.bvp@gmail.com. We are here to assist you and make your churn prediction journey a success.
-
+If you have any feedback, suggestions, or questions regarding the project, please create an issue in the repository or contact me at usman.bvp@gmail.com. 
 Happy predicting!!

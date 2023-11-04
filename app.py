@@ -1,21 +1,23 @@
 from flask import Flask, render_template, request
 import pickle
-import joblib
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder, StandardScaler
 
 app = Flask(__name__)
 
 # Load the pre-trained model
-with open('random_forest_model.pkl', 'rb') as f:
-    model_random = joblib.load(f)
+model_filename1 = 'models/random_forest_model.pkl'
+with open(model_filename1, 'rb') as file:
+    model_random = pickle.load(file)
 
 # Load the label encoders
-with open('label_encoder.pkl', 'rb') as f:
+model_filename2 = 'models/label_encoder.pkl'
+with open(model_filename2, 'rb') as f:
     label_encoders = pickle.load(f)
 
 # Load the standard scaler
-with open('standard_scaler.pkl', 'rb') as f:
+model_filename3 = 'models/standard_scaler.pkl'
+with open(model_filename3, 'rb') as f:
     scaler = pickle.load(f)
 
 @app.route('/')
@@ -68,11 +70,11 @@ def predict():
     input_df[numerical_cols] = scaler.transform(input_df[numerical_cols])
 
     # Make predictions using the pre-trained model
-    churn_prediction = model_random.predict(input_df)
-    print(churn_prediction)
+    prediction = model_random.predict(input_df)
+    #print(churn_prediction)
 
     
-    return render_template('index.html', prediction=churn_prediction[0])
+    return render_template('index.html', prediction=prediction[0])
 
 
 if __name__ == '__main__':

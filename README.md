@@ -87,7 +87,7 @@ http://127.0.0.1:5000/
 
 5.After reviewing the results, you can take appropriate actions, make informed decisions, and apply the project to specific use cases, such as implementing attractive customer offers.
 
-## 🌐Deployemtnt
+## 🌐Deployment
 
 To deploy this project, follow these steps:
 

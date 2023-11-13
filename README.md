@@ -1,10 +1,11 @@
+<html>
 <h1 align = center> Telecom Churn Prediction Project</h1>
 
 <div style="display: flex; justify-content: space-between;">
   <img src="images/churn2.jpeg" alt="Telecom-Churn-Prediction-Project" style="width: 48%;">
   <img src="images/churn1.jpeg" alt="Telecom-Churn-Prediction-Project" style="width: 48%;">
 </div>
-
+</html>
 
 
 <div style = " margin-top: 30px;text-align : center">

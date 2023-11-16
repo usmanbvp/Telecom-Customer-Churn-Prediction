@@ -1,11 +1,10 @@
-<html>
+
 <h1 align = center> Telecom Churn Prediction Project</h1>
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="images/churn2.jpeg" alt="Telecom-Churn-Prediction-Project" style="width: 48%;">
-  <img src="images/churn1.jpeg" alt="Telecom-Churn-Prediction-Project" style="width: 48%;">
+  <img src="https://github.com/usmanbvp/Telecom-Customer-Churn-Prediction/assets/119880028/59743b4e-f957-4dbe-99ce-940a6161b74d" alt="Telecom-Churn-Prediction-Project" style="width: 48%;">
+  <img src="https://github.com/usmanbvp/Telecom-Customer-Churn-Prediction/assets/119880028/3d2df3fc-69e2-4c31-97c9-737535cc4a04 alt="Telecom-Churn-Prediction-Project" style="width: 48%;">
 </div>
-</html>
 
 
 <div style = " margin-top: 30px;text-align : center">
@@ -74,8 +73,9 @@ http://127.0.0.1:5000/
 ```
 2. You will be presented with a user-friendly web app interface. Explore the available features and prediction options.
 <div style = "text-align: center;">
-<img src="images/webapp_on_local_machine.png" alt="web interface" width = "700" height = "350">
+<img src="https://github.com/usmanbvp/Telecom-Customer-Churn-Prediction/assets/119880028/105fff23-0ec1-4eeb-95d1-2313c8c7e31b" alt="web interface" width = "700" height = "350">
 </div>
+
 
 
 3. Follow the on-screen instructions to input customer data and harness the prediction feature to anticipate future customer churn outcomes.
@@ -83,7 +83,7 @@ http://127.0.0.1:5000/
 4. The web app should provide you with results based on your input.
 
 <div style="text-align: center;">
-  <img src="images/local_machine_after_prediction.png" alt="prediction results" width="700" height="350">
+  <img src="https://github.com/usmanbvp/Telecom-Customer-Churn-Prediction/assets/119880028/c5ea1e81-0333-4433-92f2-604a1ee02c07" alt="prediction results" width="700" height="350">
 </div>
 
 5.After reviewing the results, you can take appropriate actions, make informed decisions, and apply the project to specific use cases, such as implementing attractive customer offers.

@@ -1,9 +1,10 @@
 body {
   font-weight: bold; /* Set the font weight to bold for all text within the body */
- 
+
   background-repeat: no-repeat;
   background-size: cover;
   background-color: skyblue;
+
 }
 h1 { 
 color: blue; /* Change the font color to red */
